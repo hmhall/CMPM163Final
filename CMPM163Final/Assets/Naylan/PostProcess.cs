@@ -24,5 +24,7 @@ public class PostProcess : MonoBehaviour
             this.enabled = false;
 
         }
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 }

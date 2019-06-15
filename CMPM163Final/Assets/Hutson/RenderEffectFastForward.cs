@@ -49,6 +49,8 @@ public class RenderEffectFastForward : MonoBehaviour
             this.enabled = false;
 
         }
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 
     void OnDisable()
