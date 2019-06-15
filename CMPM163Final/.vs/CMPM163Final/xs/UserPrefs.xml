@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{57545A20-583B-859F-C375-904CCDE877F9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Naylan/PostProcess.cs">
+    <Files>
+      <File FileName="Assets/Hutson/FastForward.shader" Line="3" Column="15" />
+      <File FileName="Assets/Hutson/RenderEffectFastForward.cs" Line="19" Column="1" />
+      <File FileName="Assets/Naylan/PostProcess.cs" Line="16" Column="1" />
+      <File FileName="Assets/Naylan/PostBlur.cs" Line="18" Column="6" />
+      <File FileName="Assets/Naylan/Pixelation.cs" Line="19" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CMPM163Final" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Hutson" expanded="True" />
+              <Node name="Naylan" expanded="True">
+                <Node name="PostProcess.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="575f5e51-c233-4902-b85e-d40710253e29" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
