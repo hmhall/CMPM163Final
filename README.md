@@ -12,3 +12,4 @@ wasd for moving camera position, mouse for rotating camera
 
 Fast Forward/Paradox instructions:
 Space to switch between shaders
+Esc to quit
