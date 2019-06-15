@@ -9,3 +9,6 @@ Bangsheng Zhai - Teleporter Hologram
 
 Teleporter instuctrions:
 wasd for moving camera position, mouse for rotating camera
+
+Fast Forward/Paradox instructions:
+Space to switch between shaders
